@@ -467,52 +467,56 @@
     "value": "#ffffff",
     "type": "color"
   },
-  "3xs": {
-    "value": "{m} * 0.125",
-    "type": "sizing"
+  "0,125x": {
+    "value": "{base} * 0.125",
+    "type": "number"
   },
-  "2xs": {
-    "value": "{m} * 0.25",
-    "type": "sizing"
+  "0,25x": {
+    "value": "{base} * 0.25",
+    "type": "number"
   },
-  "xs": {
-    "value": "{m} * 0.5",
-    "type": "sizing"
+  "0,5x": {
+    "value": "{base} * 0.5",
+    "type": "number"
   },
-  "s": {
-    "value": "{m} * 0.75",
-    "type": "sizing"
+  "0,75x": {
+    "value": "{base} * 0.75",
+    "type": "number"
   },
-  "m": {
+  "base": {
     "value": "16",
-    "type": "sizing"
+    "type": "number"
   },
-  "l": {
-    "value": "{m} * 1.25",
-    "type": "sizing"
+  "1,25x": {
+    "value": "{base} * 1.25",
+    "type": "number"
   },
-  "xl": {
-    "value": "{m} * 1.5",
-    "type": "sizing"
+  "1,5x": {
+    "value": "{base} * 1.5",
+    "type": "number"
   },
-  "2xl": {
-    "value": "{m} * 2",
-    "type": "sizing"
+  "1,75x": {
+    "value": "{base} * 1.75",
+    "type": "number"
   },
-  "3xl": {
-    "value": "{m} * 2.5",
-    "type": "sizing"
+  "2x": {
+    "value": "{base} * 2",
+    "type": "number"
   },
-  "4xl": {
-    "value": "{m} * 3",
-    "type": "sizing"
+  "2,5x": {
+    "value": "{base} * 2.5",
+    "type": "number"
   },
-  "5xl": {
-    "value": "{m} * 4",
-    "type": "sizing"
+  "3x": {
+    "value": "{base} * 3",
+    "type": "number"
   },
-  "6xl": {
-    "value": "{m} * 5",
-    "type": "sizing"
+  "4x": {
+    "value": "{base} * 4",
+    "type": "number"
+  },
+  "5x": {
+    "value": "{base} * 5",
+    "type": "number"
   }
 }
