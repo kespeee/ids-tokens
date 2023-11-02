@@ -466,5 +466,53 @@
   "white": {
     "value": "#ffffff",
     "type": "color"
+  },
+  "3xs": {
+    "value": "{m} * 0.125",
+    "type": "sizing"
+  },
+  "2xs": {
+    "value": "{m} * 0.25",
+    "type": "sizing"
+  },
+  "xs": {
+    "value": "{m} * 0.5",
+    "type": "sizing"
+  },
+  "s": {
+    "value": "{m} * 0.75",
+    "type": "sizing"
+  },
+  "m": {
+    "value": "16",
+    "type": "sizing"
+  },
+  "l": {
+    "value": "{m} * 1.25",
+    "type": "sizing"
+  },
+  "xl": {
+    "value": "{m} * 1.5",
+    "type": "sizing"
+  },
+  "2xl": {
+    "value": "{m} * 2",
+    "type": "sizing"
+  },
+  "3xl": {
+    "value": "{m} * 2.5",
+    "type": "sizing"
+  },
+  "4xl": {
+    "value": "{m} * 3",
+    "type": "sizing"
+  },
+  "5xl": {
+    "value": "{m} * 4",
+    "type": "sizing"
+  },
+  "6xl": {
+    "value": "{m} * 5",
+    "type": "sizing"
   }
 }
