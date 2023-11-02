@@ -484,7 +484,7 @@
     "type": "number"
   },
   "base": {
-    "value": "16",
+    "value": "16px",
     "type": "number"
   },
   "1,25x": {
