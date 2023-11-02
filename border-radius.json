@@ -1,1 +1,10 @@
-{}
+{
+  "border-radius-default": {
+    "value": "12",
+    "type": "borderRadius"
+  },
+  "border-radius-promo": {
+    "value": "24",
+    "type": "borderRadius"
+  }
+}
