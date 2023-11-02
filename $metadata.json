@@ -5,6 +5,7 @@
     "colors",
     "spacings",
     "shadows",
-    "border-radius"
+    "border-radius",
+    "tokens"
   ]
 }
