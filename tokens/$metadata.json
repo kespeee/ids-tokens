@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "typography",
+    "light",
+    "dark",
+    "spacings",
+    "shadows",
+    "border-radius"
+  ]
+}
