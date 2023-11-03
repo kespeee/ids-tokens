@@ -2,7 +2,8 @@
   "tokenSetOrder": [
     "global",
     "typography",
-    "colors",
+    "light",
+    "dark",
     "spacings",
     "shadows",
     "border-radius"
