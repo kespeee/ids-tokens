@@ -518,5 +518,13 @@
   "5x": {
     "value": "{base} * 5",
     "type": "number"
+  },
+  "size-base": {
+    "value": "{base}",
+    "type": "sizing"
+  },
+  "dim-base": {
+    "value": "16px",
+    "type": "dimension"
   }
 }
