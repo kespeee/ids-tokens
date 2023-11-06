@@ -1,19 +1,8 @@
 {
   "tokenSetOrder": [
-    "global",
-    "typography",
-    "light",
-    "dark",
-    "spacings",
-    "shadows",
-    "border-radius",
-    "colors",
-    "tokens",
-    "tokens/$metadata",
-    "tokens/$themes",
+    "tokens/global",
     "tokens/border-radius",
     "tokens/colors",
-    "tokens/global",
     "tokens/shadows",
     "tokens/spacings",
     "tokens/typography"
