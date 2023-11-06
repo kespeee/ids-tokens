@@ -6,10 +6,10 @@
     "selectedTokenSets": {
       "global": "source",
       "typography": "enabled",
-      "light": "enabled",
       "spacings": "enabled",
       "shadows": "enabled",
-      "border-radius": "enabled"
+      "border-radius": "enabled",
+      "colors": "enabled"
     },
     "group": "theme",
     "$figmaCollectionId": "VariableCollectionId:5467:16683",
@@ -77,10 +77,10 @@
     "selectedTokenSets": {
       "global": "source",
       "typography": "enabled",
-      "dark": "enabled",
       "spacings": "enabled",
       "shadows": "enabled",
-      "border-radius": "enabled"
+      "border-radius": "enabled",
+      "colors": "disabled"
     },
     "group": "theme",
     "$figmaCollectionId": "VariableCollectionId:5467:16683",
