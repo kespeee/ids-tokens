@@ -1,10 +1,10 @@
 {
   "tokenSetOrder": [
-    "tokens/global",
-    "tokens/border-radius",
-    "tokens/colors",
-    "tokens/shadows",
-    "tokens/spacings",
-    "tokens/typography"
+    "palette",
+    "border-radius",
+    "colors",
+    "shadows",
+    "spacings",
+    "typography"
   ]
 }

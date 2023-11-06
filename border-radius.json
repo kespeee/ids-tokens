@@ -1,0 +1,10 @@
+{
+  "border-radius-default": {
+    "value": "{0,75x}",
+    "type": "borderRadius"
+  },
+  "border-radius-promo": {
+    "value": "{1,5x}",
+    "type": "borderRadius"
+  }
+}
