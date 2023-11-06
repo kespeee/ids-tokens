@@ -1,10 +1,28 @@
 {
-  "tokenSetOrder": [
-    "global",
-    "typography",
-    "colors",
-    "spacings",
-    "shadows",
-    "border-radius"
-  ]
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    },
+    "1": {
+      "value": "typography",
+      "type": "other"
+    },
+    "2": {
+      "value": "colors",
+      "type": "other"
+    },
+    "3": {
+      "value": "spacings",
+      "type": "other"
+    },
+    "4": {
+      "value": "shadows",
+      "type": "other"
+    },
+    "5": {
+      "value": "border-radius",
+      "type": "other"
+    }
+  }
 }

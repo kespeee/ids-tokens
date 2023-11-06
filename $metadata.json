@@ -6,6 +6,16 @@
     "dark",
     "spacings",
     "shadows",
-    "border-radius"
+    "border-radius",
+    "colors",
+    "tokens",
+    "tokens/$metadata",
+    "tokens/$themes",
+    "tokens/border-radius",
+    "tokens/colors",
+    "tokens/global",
+    "tokens/shadows",
+    "tokens/spacings",
+    "tokens/typography"
   ]
 }

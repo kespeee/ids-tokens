@@ -1,7 +1,6 @@
-[
-  {
+{
+  "light": {
     "id": "13d4f21c64d8e728a293a6eab58625540c4e92e5",
-    "name": "light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "global": "source",
@@ -68,11 +67,11 @@
       "action.negative.disabled": "494b141d3c8078220b9989118daae03f02170202",
       "surface.on-primary.hover": "a4290b5d2e1415d354e1719964e8142e5cb45804",
       "surface.on-secondary.hover": "c0bd87450fc874f957b28b25bbce404449a88348"
-    }
+    },
+    "type": "other"
   },
-  {
+  "dark": {
     "id": "d649dbe12d052beb68d7b8ab21404addb537ebf1",
-    "name": "dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "global": "source",
@@ -139,6 +138,7 @@
       "action.negative.disabled": "494b141d3c8078220b9989118daae03f02170202",
       "surface.on-primary.hover": "a4290b5d2e1415d354e1719964e8142e5cb45804",
       "surface.on-secondary.hover": "c0bd87450fc874f957b28b25bbce404449a88348"
-    }
+    },
+    "type": "other"
   }
-]
+}
