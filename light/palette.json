@@ -490,5 +490,9 @@
   "size-base": {
     "value": "{base}",
     "type": "sizing"
+  },
+  "white": {
+    "value": "rgba(255, 255, 255, 1)",
+    "type": "color"
   }
 }

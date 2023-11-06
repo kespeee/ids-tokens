@@ -5,21 +5,21 @@
       "type": "color"
     },
     "black": {
-      "value": "{black.750}",
+      "value": "{black.1000}",
       "type": "color"
     }
   },
   "label": {
     "primary": {
-      "value": "{black.750}",
+      "value": "{black.1000}",
       "type": "color"
     },
     "paragraph": {
-      "value": "{black.650}",
+      "value": "{black.850}",
       "type": "color"
     },
     "secondary": {
-      "value": "{black.550}",
+      "value": "{black.600}",
       "type": "color"
     },
     "disabled": {
@@ -43,25 +43,25 @@
       "type": "color"
     },
     "on-color": {
-      "value": "{white.100}",
+      "value": "{white}",
       "type": "color"
     },
     "on-accent": {
-      "value": "{black.750}",
+      "value": "{black.1000}",
       "type": "color"
     },
     "on-neutral": {
-      "value": "{black.750}",
+      "value": "{black.1000}",
       "type": "color"
     },
     "on-inverse": {
-      "value": "{white.100}",
+      "value": "{white}",
       "type": "color"
     }
   },
   "background": {
     "primary": {
-      "value": "{white.100}",
+      "value": "{white}",
       "type": "color"
     },
     "secondary": {
@@ -82,7 +82,7 @@
     },
     "on-secondary": {
       "default": {
-        "value": "{white.100}",
+        "value": "{white}",
         "type": "color"
       },
       "hover": {
@@ -91,7 +91,7 @@
       }
     },
     "inverse": {
-      "value": "{black.700}",
+      "value": "{black.1000}",
       "type": "color"
     }
   },
