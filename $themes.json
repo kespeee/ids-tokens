@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "a35ddf191784055e4d29259e826ea141b67a62fb",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/border-radius": "enabled",
+      "core/shadows": "enabled",
+      "core/spacings": "enabled",
+      "core/typography": "enabled",
+      "light/palette": "source",
+      "light/colors": "enabled"
+    },
+    "group": "theme"
+  },
+  {
+    "id": "d7241ea4d026856e960ed0dd11771de97611d5d2",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/border-radius": "enabled",
+      "core/shadows": "enabled",
+      "core/spacings": "enabled",
+      "core/typography": "enabled",
+      "dark/palette": "source",
+      "dark/colors": "enabled"
+    },
+    "group": "theme"
+  }
+]
