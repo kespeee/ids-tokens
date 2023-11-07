@@ -66,107 +66,107 @@
     }
   },
   "black": {
-    "25": {
+    "2": {
       "value": "rgba(247, 247, 247, 1)",
       "type": "color"
     },
-    "50": {
+    "5": {
       "value": "rgba(242, 242, 242, 1)",
       "type": "color"
     },
-    "75": {
+    "7": {
       "value": "rgba(236, 236, 236, 1)",
       "type": "color"
     },
-    "100": {
+    "10": {
       "value": "rgba(229, 229, 229, 1)",
       "type": "color"
     },
-    "125": {
+    "12": {
       "value": "rgba(223, 223, 223, 1)",
       "type": "color"
     },
-    "150": {
+    "15": {
       "value": "rgba(217, 217, 217, 1)",
       "type": "color"
     },
-    "200": {
+    "20": {
       "value": "rgba(204, 204, 204, 1)",
       "type": "color"
     },
-    "250": {
+    "25": {
       "value": "rgba(191, 191, 191, 1)",
       "type": "color"
     },
-    "300": {
+    "30": {
       "value": "rgba(178, 178, 178, 1)",
       "type": "color"
     },
-    "350": {
+    "35": {
       "value": "rgba(166, 166, 166, 1)",
       "type": "color"
     },
-    "400": {
+    "40": {
       "value": "rgba(153, 153, 153, 1)",
       "type": "color"
     },
-    "450": {
+    "45": {
       "value": "rgba(140, 140, 140, 1)",
       "type": "color"
     },
-    "500": {
+    "50": {
       "value": "rgba(128, 128, 128, 1)",
       "type": "color"
     },
-    "550": {
+    "55": {
       "value": "rgba(115, 115, 115, 1)",
       "type": "color"
     },
-    "600": {
+    "60": {
       "value": "rgba(102, 102, 102, 1)",
       "type": "color"
     },
-    "650": {
+    "65": {
       "value": "rgba(89, 89, 89, 1)",
       "type": "color"
     },
-    "700": {
+    "70": {
       "value": "rgba(77, 77, 77, 1)",
       "type": "color"
     },
-    "750": {
+    "75": {
       "value": "rgba(64, 64, 64, 1)",
       "type": "color"
     },
-    "800": {
+    "80": {
       "value": "rgba(51, 51, 51, 1)",
       "type": "color"
     },
-    "850": {
+    "85": {
       "value": "rgba(38, 38, 38, 1)",
       "type": "color"
     },
-    "875": {
+    "87": {
       "value": "rgba(33, 33, 33, 1)",
       "type": "color"
     },
-    "900": {
+    "90": {
       "value": "rgba(26, 26, 26, 1)",
       "type": "color"
     },
-    "925": {
+    "92": {
       "value": "rgba(19, 19, 19, 1)",
       "type": "color"
     },
-    "950": {
+    "95": {
       "value": "rgba(13, 13, 13, 1)",
       "type": "color"
     },
-    "975": {
+    "97": {
       "value": "rgba(8, 8, 8, 1)",
       "type": "color"
     },
-    "1000": {
+    "100": {
       "value": "rgba(0, 0, 0, 1)",
       "type": "color"
     }

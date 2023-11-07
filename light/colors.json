@@ -5,25 +5,25 @@
       "type": "color"
     },
     "black": {
-      "value": "{black.1000}",
+      "value": "{black.100}",
       "type": "color"
     }
   },
   "label": {
     "primary": {
-      "value": "{black.1000}",
+      "value": "{black.100}",
       "type": "color"
     },
     "paragraph": {
-      "value": "{black.850}",
+      "value": "{black.80}",
       "type": "color"
     },
     "secondary": {
-      "value": "{black.600}",
+      "value": "{black.60}",
       "type": "color"
     },
     "disabled": {
-      "value": "{black.300}",
+      "value": "{black.30}",
       "type": "color"
     },
     "negative": {
@@ -47,11 +47,11 @@
       "type": "color"
     },
     "on-accent": {
-      "value": "{black.1000}",
+      "value": "{black.100}",
       "type": "color"
     },
     "on-neutral": {
-      "value": "{black.1000}",
+      "value": "{black.100}",
       "type": "color"
     },
     "on-inverse": {
@@ -65,18 +65,18 @@
       "type": "color"
     },
     "secondary": {
-      "value": "{black.50}",
+      "value": "{black.5}",
       "type": "color"
     }
   },
   "surface": {
     "on-primary": {
       "default": {
-        "value": "{black.50}",
+        "value": "{black.5}",
         "type": "color"
       },
       "hover": {
-        "value": "{black.75}",
+        "value": "{black.7}",
         "type": "color"
       }
     },
@@ -86,22 +86,22 @@
         "type": "color"
       },
       "hover": {
-        "value": "{black.75}",
+        "value": "{black.7}",
         "type": "color"
       }
     },
     "inverse": {
-      "value": "{black.1000}",
+      "value": "{black.100}",
       "type": "color"
     }
   },
   "border": {
     "default": {
-      "value": "{black.150}",
+      "value": "{black.15}",
       "type": "color"
     },
     "disabled": {
-      "value": "{black.100}",
+      "value": "{black.10}",
       "type": "color"
     },
     "accent": {
@@ -142,19 +142,19 @@
     },
     "neutral": {
       "active": {
-        "value": "{black.125}",
+        "value": "{black.12}",
         "type": "color"
       },
       "hover": {
-        "value": "{black.200}",
+        "value": "{black.20}",
         "type": "color"
       },
       "pressed": {
-        "value": "{black.250}",
+        "value": "{black.25}",
         "type": "color"
       },
       "disabled": {
-        "value": "{black.75}",
+        "value": "{black.7}",
         "type": "color"
       }
     },
