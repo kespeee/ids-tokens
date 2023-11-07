@@ -1,0 +1,54 @@
+{
+  "0,125x": {
+    "value": "{base} * 0.125",
+    "type": "number"
+  },
+  "0,25x": {
+    "value": "{base} * 0.25",
+    "type": "number"
+  },
+  "0,5x": {
+    "value": "{base} * 0.5",
+    "type": "number"
+  },
+  "0,75x": {
+    "value": "{base} * 0.75",
+    "type": "number"
+  },
+  "base": {
+    "value": "16px",
+    "type": "number"
+  },
+  "1,25x": {
+    "value": "{base} * 1.25",
+    "type": "number"
+  },
+  "1,5x": {
+    "value": "{base} * 1.5",
+    "type": "number"
+  },
+  "1,75x": {
+    "value": "{base} * 1.75",
+    "type": "number"
+  },
+  "2x": {
+    "value": "{base} * 2",
+    "type": "number"
+  },
+  "2,5x": {
+    "value": "{base} * 2.5",
+    "type": "number"
+  },
+  "3x": {
+    "value": "{base} * 3",
+    "type": "number"
+  },
+  "4x": {
+    "value": "{base} * 4",
+    "type": "number"
+  },
+  "5x": {
+    "value": "{base} * 5",
+    "type": "number"
+  }
+}

@@ -8,8 +8,9 @@
       "core/shadows": "enabled",
       "core/spacings": "enabled",
       "core/typography": "enabled",
-      "light/palette": "source",
-      "light/colors": "enabled"
+      "light/colors": "enabled",
+      "core/palette": "source",
+      "core/dimensions": "source"
     },
     "group": "theme"
   },
@@ -22,8 +23,9 @@
       "core/shadows": "enabled",
       "core/spacings": "enabled",
       "core/typography": "enabled",
-      "dark/palette": "source",
-      "dark/colors": "enabled"
+      "dark/colors": "enabled",
+      "core/palette": "source",
+      "core/dimensions": "source"
     },
     "group": "theme"
   }

@@ -1,12 +1,12 @@
 {
   "tokenSetOrder": [
+    "core/palette",
+    "core/dimensions",
     "core/border-radius",
     "core/shadows",
     "core/spacings",
     "core/typography",
-    "light/palette",
     "light/colors",
-    "dark/palette",
     "dark/colors"
   ]
 }
