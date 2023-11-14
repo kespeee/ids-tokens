@@ -65,14 +65,14 @@
       "type": "color"
     },
     "secondary": {
-      "value": "{black.95}",
+      "value": "{black.90}",
       "type": "color"
     }
   },
   "surface": {
     "on-primary": {
       "default": {
-        "value": "{black.87}",
+        "value": "{black.90}",
         "type": "color"
       },
       "hover": {
@@ -97,11 +97,11 @@
   },
   "border": {
     "default": {
-      "value": "{black.70}",
+      "value": "{black.80}",
       "type": "color"
     },
     "disabled": {
-      "value": "{black.80}",
+      "value": "{black.90}",
       "type": "color"
     },
     "accent": {
