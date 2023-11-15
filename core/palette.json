@@ -130,24 +130,12 @@
       "value": "rgba(38, 38, 38, 1)",
       "type": "color"
     },
-    "87": {
-      "value": "rgba(33, 33, 33, 1)",
-      "type": "color"
-    },
     "90": {
       "value": "rgba(26, 26, 26, 1)",
       "type": "color"
     },
-    "92": {
-      "value": "rgba(19, 19, 19, 1)",
-      "type": "color"
-    },
     "95": {
       "value": "rgba(13, 13, 13, 1)",
-      "type": "color"
-    },
-    "97": {
-      "value": "rgba(8, 8, 8, 1)",
       "type": "color"
     },
     "100": {

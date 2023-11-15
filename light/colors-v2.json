@@ -23,7 +23,7 @@
       "type": "color"
     },
     "disabled": {
-      "value": "{black.30}",
+      "value": "{black.25}",
       "type": "color"
     },
     "negative": {
@@ -101,7 +101,7 @@
       "type": "color"
     },
     "disabled": {
-      "value": "{black.10}",
+      "value": "{black.7}",
       "type": "color"
     },
     "accent": {

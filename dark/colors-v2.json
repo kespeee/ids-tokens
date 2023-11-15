@@ -101,7 +101,7 @@
       "type": "color"
     },
     "disabled": {
-      "value": "{black.90}",
+      "value": "{black.85}",
       "type": "color"
     },
     "accent": {
@@ -142,7 +142,7 @@
     },
     "neutral": {
       "active": {
-        "value": "{black.87}",
+        "value": "{black.85}",
         "type": "color"
       },
       "hover": {
@@ -154,7 +154,7 @@
         "type": "color"
       },
       "disabled": {
-        "value": "{black.92}",
+        "value": "{black.90}",
         "type": "color"
       }
     },
