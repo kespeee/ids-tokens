@@ -28,5 +28,20 @@
       "core/dimensions": "source"
     },
     "group": "theme"
+  },
+  {
+    "id": "1d22818128117f15d9eed35db559898e74104f57",
+    "name": "light-v2",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/palette-v2": "source",
+      "core/dimensions": "source",
+      "core/border-radius": "enabled",
+      "core/shadows": "enabled",
+      "core/spacings": "enabled",
+      "core/typography": "enabled",
+      "light/colors-v2": "enabled"
+    },
+    "group": "theme"
   }
 ]
